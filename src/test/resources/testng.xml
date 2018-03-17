@@ -1,0 +1,7 @@
+<suite name="Catalizr Test" verbose="1" >
+  <test name="Test"   >
+    <packages>
+      <package name="com.utocat.catalizr.*" />
+   </packages>
+ </test>
+</suite>
