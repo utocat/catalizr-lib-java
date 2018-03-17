@@ -4,7 +4,7 @@ CATALIZR LIBRARY
 =================================================
 This is a JAVA client library to work with [Catalizr API](https://api.catalizr.io/doc/).
 
-Latest stable version : `0.0.1`
+Latest stable version : `0.0.3`
 
 Installation
 -------------------------------------------------
@@ -18,7 +18,7 @@ repositories {
 }
 
 dependencies {
-    compile 'com.utocat:lib-catalizr-java:0.0.1'
+    compile 'com.utocat:lib-catalizr-java:0.0.3'
 }
 ```
 
@@ -26,7 +26,7 @@ dependencies {
 <dependency>
   <groupId>com.utocat</groupId>
   <artifactId>lib-catalizr-java</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.3</version>
 </dependency>
 ```
 
